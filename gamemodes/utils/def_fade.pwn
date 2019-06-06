@@ -1,0 +1,4 @@
+#define FADE_CHOOSE_SKIN      1
+#define FADE_SELECTED_OUTFIT  2
+#define FADE_SET_POSITION     3
+#define FADE_BUY_OUTFIT       4
