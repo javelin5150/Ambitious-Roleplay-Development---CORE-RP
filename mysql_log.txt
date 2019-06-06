@@ -1,0 +1,1253 @@
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:56:47] [ERROR] cache_get_field_content_float - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:47] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:56:47] [ERROR] cache_get_field_content_int - invalid datatype
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:56:55] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[12:18:07] [ERROR] cache_get_field_content_float - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[12:18:07] [ERROR] cache_get_field_content_int - invalid datatype
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[12:18:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:26:50] [ERROR] cache_get_field_content_float - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:26:50] [ERROR] cache_get_field_content_int - invalid datatype
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:26:59] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:31:09] [ERROR] cache_get_field_content_float - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:09] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:31:09] [ERROR] cache_get_field_content_int - invalid datatype
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:31:13] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:32:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[13:32:11] [ERROR] cache_get_field_content_int - invalid datatype
+[13:32:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[13:32:11] [ERROR] cache_get_field_content_int - invalid datatype
+[13:32:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[13:32:11] [ERROR] cache_get_field_content_int - invalid datatype
+[13:32:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[13:32:11] [ERROR] cache_get_field_content_int - invalid datatype
+[13:34:58] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:35:24] [ERROR] cache_get_field_content_float - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:24] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:35:24] [ERROR] cache_get_field_content_int - invalid datatype
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:35:32] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:36:14] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[13:36:14] [ERROR] cache_get_field_content_int - invalid datatype
+[13:36:14] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[13:36:14] [ERROR] cache_get_field_content_int - invalid datatype
+[13:36:14] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[13:36:14] [ERROR] cache_get_field_content_int - invalid datatype
+[13:36:14] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[13:36:14] [ERROR] cache_get_field_content_int - invalid datatype
+[13:40:38] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:46:13] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:46:13] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:46:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1146) Table 'crp.rp_factionaccessories' doesn't exist
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:01:49] [ERROR] cache_get_field_content_float - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:49] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:01:49] [ERROR] cache_get_field_content_int - invalid datatype
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:01:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:37:07] [ERROR] cache_get_field_content_float - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:37:07] [ERROR] cache_get_field_content_int - invalid datatype
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:37:17] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:38:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[13:38:03] [ERROR] cache_get_field_content_int - invalid datatype
+[13:38:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[13:38:03] [ERROR] cache_get_field_content_int - invalid datatype
+[13:38:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[13:38:03] [ERROR] cache_get_field_content_int - invalid datatype
+[13:38:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[13:38:03] [ERROR] cache_get_field_content_int - invalid datatype
+[13:41:54] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[13:42:56] [ERROR] cache_get_field_content_float - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[13:42:56] [ERROR] cache_get_field_content_int - invalid datatype
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[13:43:00] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[13:43:30] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[13:43:30] [ERROR] cache_get_field_content_int - invalid datatype
+[13:43:30] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[13:43:30] [ERROR] cache_get_field_content_int - invalid datatype
+[13:43:30] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[13:43:30] [ERROR] cache_get_field_content_int - invalid datatype
+[13:43:30] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[13:43:30] [ERROR] cache_get_field_content_int - invalid datatype
+[14:00:23] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:00:38] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:01:55] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:04:23] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:09:13] [ERROR] cache_get_field_content_float - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:13] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:09:13] [ERROR] cache_get_field_content_int - invalid datatype
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:09:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:11:01] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[14:11:01] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:01] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[14:11:01] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:01] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[14:11:01] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:01] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[14:11:01] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[14:11:50] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[14:11:50] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[14:11:50] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:50] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[14:11:50] [ERROR] cache_get_field_content_int - invalid datatype
+[14:11:55] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:15:44] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:20:07] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:23:25] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:25:51] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:26:26] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:27:24] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:37:28] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:37:28] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:37:28] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:37:29] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:37:43] [WARNING] CMySQLHandle::Create - connection already exists
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[14:37:43] [ERROR] cache_get_field_content_float - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:43] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[14:37:43] [ERROR] cache_get_field_content_int - invalid datatype
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[14:37:57] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[14:38:00] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[14:38:00] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:00] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[14:38:00] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:00] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[14:38:00] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:00] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[14:38:00] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[14:38:11] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[14:38:11] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[14:38:11] [ERROR] cache_get_field_content_int - invalid datatype
+[14:38:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[14:38:11] [ERROR] cache_get_field_content_int - invalid datatype
+[14:39:08] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[14:56:05] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[15:04:15] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[15:15:52] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[15:36:01] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[15:54:19] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[16:04:41] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[16:07:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[16:07:11] [ERROR] cache_get_field_content_int - invalid datatype
+[16:07:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[16:07:11] [ERROR] cache_get_field_content_int - invalid datatype
+[16:07:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[16:07:11] [ERROR] cache_get_field_content_int - invalid datatype
+[16:07:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[16:07:11] [ERROR] cache_get_field_content_int - invalid datatype
+[16:31:46] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[16:37:52] [ERROR] cache_get_field_content_float - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:37:52] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[16:37:52] [ERROR] cache_get_field_content_int - invalid datatype
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[16:38:02] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[16:38:28] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[16:38:28] [ERROR] cache_get_field_content_int - invalid datatype
+[16:38:28] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[16:38:28] [ERROR] cache_get_field_content_int - invalid datatype
+[16:38:28] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[16:38:28] [ERROR] cache_get_field_content_int - invalid datatype
+[16:38:28] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[16:38:28] [ERROR] cache_get_field_content_int - invalid datatype
+[16:38:48] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[20:58:41] [ERROR] cache_get_field_content_float - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:41] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[20:58:41] [ERROR] cache_get_field_content_int - invalid datatype
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[20:58:51] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[21:30:36] [ERROR] cache_get_field_content_float - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:36] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[21:30:36] [ERROR] cache_get_field_content_int - invalid datatype
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:30:39] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[21:32:18] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[21:32:18] [ERROR] cache_get_field_content_int - invalid datatype
+[21:32:18] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[21:32:18] [ERROR] cache_get_field_content_int - invalid datatype
+[21:32:18] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[21:32:18] [ERROR] cache_get_field_content_int - invalid datatype
+[21:32:18] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[21:32:18] [ERROR] cache_get_field_content_int - invalid datatype
+[21:37:25] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[21:37:31] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fcSpawnX' in 'field list'
+[21:42:55] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:36:10] [ERROR] cache_get_field_content_float - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:10] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:36:10] [ERROR] cache_get_field_content_int - invalid datatype
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:36:19] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnX")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnY")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnZ")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnA")
+[22:53:16] [ERROR] cache_get_field_content_float - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnInt")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:16] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fcSpawnWorld")
+[22:53:16] [ERROR] cache_get_field_content_int - invalid datatype
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionEquipment] - (error #1146) Table 'crp.rp_factionequipment' doesn't exist
+[22:53:20] [ERROR] CMySQLQuery::Execute[OnLoadFactionAccessories] - (error #1054) Unknown column 'accessoryFactionID' in 'where clause'
+[22:54:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnType")
+[22:54:03] [ERROR] cache_get_field_content_int - invalid datatype
+[22:54:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("SpawnExtra")
+[22:54:03] [ERROR] cache_get_field_content_int - invalid datatype
+[22:54:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Crashed")
+[22:54:03] [ERROR] cache_get_field_content_int - invalid datatype
+[22:54:03] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Duty")
+[22:54:03] [ERROR] cache_get_field_content_int - invalid datatype
+[23:03:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'SpawnType' in 'field list'
+[00:45:03] [WARNING] CMySQLHandle::Create - connection already exists
+[16:28:58] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[16:29:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[16:29:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[16:29:13] [WARNING] CMySQLHandle::Create - connection already exists

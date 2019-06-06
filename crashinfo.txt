@@ -1,0 +1,207 @@
+
+--------------------------
+SA-MP Server: 0.3.DL-R1
+
+Exception At Address: 0x612E7072 Module: (Unknown)
+
+Registers:
+EAX: 0x00000000	EBX: 0x00000000	ECX: 0x03112FE8	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x00000000	EBP: 0x2D632F73	ESP: 0x0051C090
+EFLAGS: 0x00010246
+
+Stack:
++0000: 0x0000786D   0x00000000   0x00000000   0x00000000
++0010: 0x00000000   0x00000000   0x00000000   0x00000000
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000000
++0040: 0x00000000   0x00000000   0x00000000   0x00000000
++0050: 0x00000000   0x00000000   0x00000000   0x00000000
++0060: 0x00000000   0x00000000   0x00000000   0x00000000
++0070: 0x00000000   0x00000000   0x00000000   0x00000000
++0080: 0x00000000   0x00000000   0x00000000   0x00000000
++0090: 0x00000000   0x00000000   0x00000000   0x00000000
++00A0: 0x00000000   0x00000000   0x00000000   0x00000000
++00B0: 0x00000000   0x00000000   0x00000000   0x00000000
++00C0: 0x00000000   0x00000000   0x00000000   0x00000000
++00D0: 0x00000000   0x00000000   0x00000000   0x00000000
++00E0: 0x00000000   0x00000000   0x00000000   0x00000000
++00F0: 0x4140010E   0x20CE648B   0x00000000   0x01FBE028
++0100: 0x00000000   0x00000000   0x00000000   0x00000000
++0110: 0x00000000   0x00000000   0x00000000   0x00000000
++0120: 0x00000000   0x00000000   0x00000000   0x00000095
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x0051F000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\samp-server.exe)
+ntdll.dll	A: 0x77800000 - 0x77980000	(C:\Windows\SysWOW64\ntdll.dll)
+kernel32.dll	A: 0x75C60000 - 0x75D70000	(C:\Windows\syswow64\kernel32.dll)
+KERNELBASE.dll	A: 0x77050000 - 0x77097000	(C:\Windows\syswow64\KERNELBASE.dll)
+SHELL32.dll	A: 0x76400000 - 0x7704C000	(C:\Windows\syswow64\SHELL32.dll)
+msvcrt.dll	A: 0x753D0000 - 0x7547C000	(C:\Windows\syswow64\msvcrt.dll)
+SHLWAPI.dll	A: 0x756D0000 - 0x75727000	(C:\Windows\syswow64\SHLWAPI.dll)
+GDI32.dll	A: 0x75D80000 - 0x75E10000	(C:\Windows\syswow64\GDI32.dll)
+USER32.dll	A: 0x755B0000 - 0x756B0000	(C:\Windows\syswow64\USER32.dll)
+ADVAPI32.dll	A: 0x75770000 - 0x75811000	(C:\Windows\syswow64\ADVAPI32.dll)
+sechost.dll	A: 0x753B0000 - 0x753C9000	(C:\Windows\SysWOW64\sechost.dll)
+RPCRT4.dll	A: 0x75490000 - 0x75580000	(C:\Windows\syswow64\RPCRT4.dll)
+SspiCli.dll	A: 0x74F20000 - 0x74F80000	(C:\Windows\syswow64\SspiCli.dll)
+CRYPTBASE.dll	A: 0x74F10000 - 0x74F1C000	(C:\Windows\syswow64\CRYPTBASE.dll)
+LPK.dll	A: 0x75590000 - 0x7559A000	(C:\Windows\syswow64\LPK.dll)
+USP10.dll	A: 0x77120000 - 0x771BD000	(C:\Windows\syswow64\USP10.dll)
+WSOCK32.dll	A: 0x69B70000 - 0x69B77000	(C:\Windows\system32\WSOCK32.dll)
+WS2_32.dll	A: 0x773E0000 - 0x77415000	(C:\Windows\syswow64\WS2_32.dll)
+NSI.dll	A: 0x75730000 - 0x75736000	(C:\Windows\syswow64\NSI.dll)
+WINMM.dll	A: 0x74810000 - 0x74842000	(C:\Windows\system32\WINMM.dll)
+IMM32.DLL	A: 0x76380000 - 0x763E0000	(C:\Windows\system32\IMM32.DLL)
+MSCTF.dll	A: 0x75100000 - 0x751CD000	(C:\Windows\syswow64\MSCTF.dll)
+dbghelp.dll	A: 0x6F880000 - 0x6F96B000	(C:\Windows\system32\dbghelp.dll)
+MSVCP100.dll	A: 0x699C0000 - 0x69A29000	(C:\Windows\system32\MSVCP100.dll)
+MSVCR100.dll	A: 0x789D0000 - 0x78A8F000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\MSVCR100.dll)
+whirlpool.dll	A: 0x10000000 - 0x1000C000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\plugins\whirlpool.dll)
+MSVCR80.dll	A: 0x519A0000 - 0x51A3B000	(C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6229_none_d089f796442de10e\MSVCR80.dll)
+mysql.dll	A: 0x0F6C0000 - 0x0F6FE000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\plugins\mysql.dll)
+libmysql.dll	A: 0x02A30000 - 0x02F3C000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\libmysql.dll)
+Secur32.dll	A: 0x720D0000 - 0x720D8000	(C:\Windows\system32\Secur32.dll)
+MSVCR120.dll	A: 0x0F030000 - 0x0F11E000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\MSVCR120.dll)
+MSVCP120.dll	A: 0x0F4A0000 - 0x0F511000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\MSVCP120.dll)
+NLAapi.dll	A: 0x6FD20000 - 0x6FD30000	(C:\Windows\system32\NLAapi.dll)
+napinsp.dll	A: 0x67840000 - 0x67850000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x67820000 - 0x67832000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x74760000 - 0x7479C000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x747B0000 - 0x747F4000	(C:\Windows\system32\DNSAPI.dll)
+winrnr.dll	A: 0x67810000 - 0x67818000	(C:\Windows\System32\winrnr.dll)
+wshbth.dll	A: 0x67800000 - 0x6780D000	(C:\Windows\system32\wshbth.dll)
+rasadhlp.dll	A: 0x747A0000 - 0x747A6000	(C:\Windows\system32\rasadhlp.dll)
+sscanf.dll	A: 0x003A0000 - 0x003AD000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\plugins\sscanf.dll)
+streamer.dll	A: 0x01F50000 - 0x01FAA000	(C:\Users\Bas Neuvel\Downloads\Core Roleplay\plugins\streamer.dll)
+MSVCP140.dll	A: 0x736D0000 - 0x73741000	(C:\Windows\system32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x73D00000 - 0x73D15000	(C:\Windows\system32\VCRUNTIME140.dll)
+api-ms-win-crt-runtime-l1-1-0.dll	A: 0x73CF0000 - 0x73CF4000	(C:\Windows\system32\api-ms-win-crt-runtime-l1-1-0.dll)
+ucrtbase.DLL	A: 0x73C10000 - 0x73CF0000	(C:\Windows\system32\ucrtbase.DLL)
+api-ms-win-core-timezone-l1-1-0.dll	A: 0x73C00000 - 0x73C03000	(C:\Windows\system32\api-ms-win-core-timezone-l1-1-0.dll)
+api-ms-win-core-file-l2-1-0.dll	A: 0x73BF0000 - 0x73BF3000	(C:\Windows\system32\api-ms-win-core-file-l2-1-0.dll)
+api-ms-win-core-localization-l1-2-0.dll	A: 0x73BE0000 - 0x73BE3000	(C:\Windows\system32\api-ms-win-core-localization-l1-2-0.dll)
+api-ms-win-core-synch-l1-2-0.dll	A: 0x74C80000 - 0x74C83000	(C:\Windows\system32\api-ms-win-core-synch-l1-2-0.dll)
+api-ms-win-core-processthreads-l1-1-1.dll	A: 0x73BD0000 - 0x73BD3000	(C:\Windows\system32\api-ms-win-core-processthreads-l1-1-1.dll)
+api-ms-win-core-file-l1-2-0.dll	A: 0x73BC0000 - 0x73BC3000	(C:\Windows\system32\api-ms-win-core-file-l1-2-0.dll)
+api-ms-win-crt-string-l1-1-0.dll	A: 0x73BB0000 - 0x73BB4000	(C:\Windows\system32\api-ms-win-crt-string-l1-1-0.dll)
+api-ms-win-crt-heap-l1-1-0.dll	A: 0x73BA0000 - 0x73BA3000	(C:\Windows\system32\api-ms-win-crt-heap-l1-1-0.dll)
+api-ms-win-crt-stdio-l1-1-0.dll	A: 0x73B90000 - 0x73B94000	(C:\Windows\system32\api-ms-win-crt-stdio-l1-1-0.dll)
+api-ms-win-crt-convert-l1-1-0.dll	A: 0x73B80000 - 0x73B84000	(C:\Windows\system32\api-ms-win-crt-convert-l1-1-0.dll)
+api-ms-win-crt-locale-l1-1-0.dll	A: 0x736C0000 - 0x736C3000	(C:\Windows\system32\api-ms-win-crt-locale-l1-1-0.dll)
+api-ms-win-crt-math-l1-1-0.dll	A: 0x73A90000 - 0x73A95000	(C:\Windows\system32\api-ms-win-crt-math-l1-1-0.dll)
+api-ms-win-crt-multibyte-l1-1-0.dll	A: 0x73840000 - 0x73845000	(C:\Windows\system32\api-ms-win-crt-multibyte-l1-1-0.dll)
+api-ms-win-crt-time-l1-1-0.dll	A: 0x73AB0000 - 0x73AB3000	(C:\Windows\system32\api-ms-win-crt-time-l1-1-0.dll)
+api-ms-win-crt-filesystem-l1-1-0.dll	A: 0x738F0000 - 0x738F3000	(C:\Windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll)
+api-ms-win-crt-environment-l1-1-0.dll	A: 0x73900000 - 0x73903000	(C:\Windows\system32\api-ms-win-crt-environment-l1-1-0.dll)
+api-ms-win-crt-utility-l1-1-0.dll	A: 0x73AA0000 - 0x73AA3000	(C:\Windows\system32\api-ms-win-crt-utility-l1-1-0.dll)
+wshtcpip.dll	A: 0x74750000 - 0x74755000	(C:\Windows\System32\wshtcpip.dll)
+IPHLPAPI.DLL	A: 0x74A10000 - 0x74A2C000	(C:\Windows\system32\IPHLPAPI.DLL)
+WINNSI.DLL	A: 0x74A00000 - 0x74A07000	(C:\Windows\system32\WINNSI.DLL)
+wship6.dll	A: 0x746A0000 - 0x746A6000	(C:\Windows\System32\wship6.dll)
+
+--------------------------
+SA-MP Server: 0.3.DL-R1
+
+Exception At Address: 0x612E7072 Module: (Unknown)
+
+Registers:
+EAX: 0x00000000	EBX: 0x00000000	ECX: 0x02AD2FE8	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x00000000	EBP: 0x2D632F73	ESP: 0x0051C090
+EFLAGS: 0x00010246
+
+Stack:
++0000: 0x0000786D   0x00000000   0x00000000   0x00000000
++0010: 0x00000000   0x00000000   0x00000000   0x00000000
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000000
++0040: 0x00000000   0x00000000   0x00000000   0x00000000
++0050: 0x00000000   0x00000000   0x00000000   0x00000000
++0060: 0x00000000   0x00000000   0x00000000   0x00000000
++0070: 0x00000000   0x00000000   0x00000000   0x00000000
++0080: 0x00000000   0x00000000   0x00000000   0x00000000
++0090: 0x00000000   0x00000000   0x00000000   0x00000000
++00A0: 0x00000000   0x00000000   0x00000000   0x00000000
++00B0: 0x00000000   0x00000000   0x00000000   0x00000000
++00C0: 0x00000000   0x00000000   0x00000000   0x00000000
++00D0: 0x00000000   0x00000000   0x00000000   0x00000000
++00E0: 0x00000000   0x00000000   0x00000000   0x00000000
++00F0: 0x41400417   0x04831CB6   0x00000000   0x002DDE88
++0100: 0x00000000   0x00000000   0x00000000   0x00000000
++0110: 0x00000000   0x00000000   0x00000000   0x00000000
++0120: 0x00000000   0x00000000   0x00000000   0x00000098
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x0051F000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\samp-server.exe)
+ntdll.dll	A: 0x776E0000 - 0x77860000	(C:\Windows\SysWOW64\ntdll.dll)
+kernel32.dll	A: 0x77030000 - 0x77140000	(C:\Windows\syswow64\kernel32.dll)
+KERNELBASE.dll	A: 0x76260000 - 0x762A7000	(C:\Windows\syswow64\KERNELBASE.dll)
+SHELL32.dll	A: 0x762F0000 - 0x76F3C000	(C:\Windows\syswow64\SHELL32.dll)
+msvcrt.dll	A: 0x76F40000 - 0x76FEC000	(C:\Windows\syswow64\msvcrt.dll)
+SHLWAPI.dll	A: 0x761D0000 - 0x76227000	(C:\Windows\syswow64\SHLWAPI.dll)
+GDI32.dll	A: 0x75A50000 - 0x75AE0000	(C:\Windows\syswow64\GDI32.dll)
+USER32.dll	A: 0x77140000 - 0x77240000	(C:\Windows\syswow64\USER32.dll)
+ADVAPI32.dll	A: 0x77250000 - 0x772F1000	(C:\Windows\syswow64\ADVAPI32.dll)
+sechost.dll	A: 0x762B0000 - 0x762C9000	(C:\Windows\SysWOW64\sechost.dll)
+RPCRT4.dll	A: 0x752E0000 - 0x753D0000	(C:\Windows\syswow64\RPCRT4.dll)
+SspiCli.dll	A: 0x74E00000 - 0x74E60000	(C:\Windows\syswow64\SspiCli.dll)
+CRYPTBASE.dll	A: 0x74DF0000 - 0x74DFC000	(C:\Windows\syswow64\CRYPTBASE.dll)
+LPK.dll	A: 0x759C0000 - 0x759CA000	(C:\Windows\syswow64\LPK.dll)
+USP10.dll	A: 0x75440000 - 0x754DD000	(C:\Windows\syswow64\USP10.dll)
+WSOCK32.dll	A: 0x71820000 - 0x71827000	(C:\Windows\system32\WSOCK32.dll)
+WS2_32.dll	A: 0x76FF0000 - 0x77025000	(C:\Windows\syswow64\WS2_32.dll)
+NSI.dll	A: 0x751A0000 - 0x751A6000	(C:\Windows\syswow64\NSI.dll)
+WINMM.dll	A: 0x74970000 - 0x749A2000	(C:\Windows\system32\WINMM.dll)
+IMM32.DLL	A: 0x753D0000 - 0x75430000	(C:\Windows\system32\IMM32.DLL)
+MSCTF.dll	A: 0x75500000 - 0x755CD000	(C:\Windows\syswow64\MSCTF.dll)
+dbghelp.dll	A: 0x74BC0000 - 0x74CAB000	(C:\Windows\system32\dbghelp.dll)
+MSVCP100.dll	A: 0x651E0000 - 0x65249000	(C:\Windows\system32\MSVCP100.dll)
+MSVCR100.dll	A: 0x64BF0000 - 0x64CAF000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\MSVCR100.dll)
+whirlpool.dll	A: 0x10000000 - 0x1000C000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\plugins\whirlpool.dll)
+MSVCR80.dll	A: 0x64B50000 - 0x64BEB000	(C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\MSVCR80.dll)
+mysql.dll	A: 0x650C0000 - 0x650FE000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\plugins\mysql.dll)
+libmysql.dll	A: 0x642C0000 - 0x647CC000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\libmysql.dll)
+Secur32.dll	A: 0x71240000 - 0x71248000	(C:\Windows\system32\Secur32.dll)
+MSVCR120.dll	A: 0x641D0000 - 0x642BE000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\MSVCR120.dll)
+MSVCP120.dll	A: 0x64FD0000 - 0x65041000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\MSVCP120.dll)
+NLAapi.dll	A: 0x6B950000 - 0x6B960000	(C:\Windows\system32\NLAapi.dll)
+napinsp.dll	A: 0x6B940000 - 0x6B950000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x6B920000 - 0x6B932000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x6B5B0000 - 0x6B5EC000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x6C1F0000 - 0x6C234000	(C:\Windows\system32\DNSAPI.dll)
+winrnr.dll	A: 0x6B910000 - 0x6B918000	(C:\Windows\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x6B850000 - 0x6B871000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+Iphlpapi.DLL	A: 0x71C10000 - 0x71C2C000	(C:\Windows\system32\Iphlpapi.DLL)
+WINNSI.DLL	A: 0x71C40000 - 0x71C47000	(C:\Windows\system32\WINNSI.DLL)
+rasadhlp.dll	A: 0x6B830000 - 0x6B836000	(C:\Windows\system32\rasadhlp.dll)
+sscanf.dll	A: 0x002F0000 - 0x002FD000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\plugins\sscanf.dll)
+streamer.dll	A: 0x64170000 - 0x641CA000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\plugins\streamer.dll)
+MSVCP140.dll	A: 0x64100000 - 0x6416E000	(C:\Windows\system32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6B760000 - 0x6B775000	(C:\Windows\system32\VCRUNTIME140.dll)
+api-ms-win-crt-runtime-l1-1-0.dll	A: 0x681B0000 - 0x681B4000	(C:\Windows\system32\api-ms-win-crt-runtime-l1-1-0.dll)
+ucrtbase.DLL	A: 0x64020000 - 0x64100000	(C:\Windows\system32\ucrtbase.DLL)
+api-ms-win-core-timezone-l1-1-0.dll	A: 0x651D0000 - 0x651D3000	(C:\Windows\system32\api-ms-win-core-timezone-l1-1-0.dll)
+api-ms-win-core-file-l2-1-0.dll	A: 0x651C0000 - 0x651C3000	(C:\Windows\system32\api-ms-win-core-file-l2-1-0.dll)
+api-ms-win-core-localization-l1-2-0.dll	A: 0x651B0000 - 0x651B3000	(C:\Windows\system32\api-ms-win-core-localization-l1-2-0.dll)
+api-ms-win-core-synch-l1-2-0.dll	A: 0x70FA0000 - 0x70FA3000	(C:\Windows\system32\api-ms-win-core-synch-l1-2-0.dll)
+api-ms-win-core-processthreads-l1-1-1.dll	A: 0x650B0000 - 0x650B3000	(C:\Windows\system32\api-ms-win-core-processthreads-l1-1-1.dll)
+api-ms-win-core-file-l1-2-0.dll	A: 0x65070000 - 0x65073000	(C:\Windows\system32\api-ms-win-core-file-l1-2-0.dll)
+api-ms-win-crt-string-l1-1-0.dll	A: 0x65060000 - 0x65064000	(C:\Windows\system32\api-ms-win-crt-string-l1-1-0.dll)
+api-ms-win-crt-heap-l1-1-0.dll	A: 0x64FC0000 - 0x64FC3000	(C:\Windows\system32\api-ms-win-crt-heap-l1-1-0.dll)
+api-ms-win-crt-stdio-l1-1-0.dll	A: 0x64EE0000 - 0x64EE4000	(C:\Windows\system32\api-ms-win-crt-stdio-l1-1-0.dll)
+api-ms-win-crt-convert-l1-1-0.dll	A: 0x64D30000 - 0x64D34000	(C:\Windows\system32\api-ms-win-crt-convert-l1-1-0.dll)
+api-ms-win-crt-locale-l1-1-0.dll	A: 0x64B40000 - 0x64B43000	(C:\Windows\system32\api-ms-win-crt-locale-l1-1-0.dll)
+api-ms-win-crt-math-l1-1-0.dll	A: 0x64B30000 - 0x64B35000	(C:\Windows\system32\api-ms-win-crt-math-l1-1-0.dll)
+api-ms-win-crt-multibyte-l1-1-0.dll	A: 0x64B20000 - 0x64B25000	(C:\Windows\system32\api-ms-win-crt-multibyte-l1-1-0.dll)
+api-ms-win-crt-time-l1-1-0.dll	A: 0x64B10000 - 0x64B13000	(C:\Windows\system32\api-ms-win-crt-time-l1-1-0.dll)
+api-ms-win-crt-filesystem-l1-1-0.dll	A: 0x64B00000 - 0x64B03000	(C:\Windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll)
+api-ms-win-crt-environment-l1-1-0.dll	A: 0x64010000 - 0x64013000	(C:\Windows\system32\api-ms-win-crt-environment-l1-1-0.dll)
+api-ms-win-crt-utility-l1-1-0.dll	A: 0x64000000 - 0x64003000	(C:\Windows\system32\api-ms-win-crt-utility-l1-1-0.dll)
+MapAndreas.dll	A: 0x003F0000 - 0x00400000	(C:\Users\Dereks\Desktop\Ambitous Roleplay Tarantino\plugins\MapAndreas.dll)
+wshtcpip.dll	A: 0x6C1E0000 - 0x6C1E5000	(C:\Windows\System32\wshtcpip.dll)
+wship6.dll	A: 0x6B960000 - 0x6B966000	(C:\Windows\System32\wship6.dll)
