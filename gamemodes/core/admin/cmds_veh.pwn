@@ -25,7 +25,7 @@ CMD:fvrespawn(playerid, params[])
 	}
 	else if (sscanf(params, "i", faction))
 	{
-	    return SendSyntaxMessage(playerid, "/deletefaction (faction ID)");
+	    return SendSyntaxMessage(playerid, "/fvrespawn (faction ID)");
 	}
 	else if (!IsValidFactionID(faction))
 	{
@@ -33,25 +33,8 @@ CMD:fvrespawn(playerid, params[])
 	}
 	else
 	{
-		foreach (new i : Player)
-		{
-		    if (GetPlayerFactionID(i) == faction)
-			{
-		        SendInfoMessage(i, "You have been kicked from your faction due to deletion.");
-		        ResetFactionInfo(i);
-			}
-		}
-		ClearFactionGates(faction);
-		ClearFactionVehicles(faction);
-
-		format(gExecute, sizeof(gExecute), "DELETE FROM rp_factions WHERE `fcID` = %i", Factions[faction][fcID]);
-	    mysql_tquery(gConnection, gExecute);
-
-	    format(gExecute, sizeof(gExecute), "UPDATE rp_accounts SET FactionID = 0 WHERE FactionID = %i", Factions[faction][fcID]);
-	    mysql_tquery(gConnection, gExecute);
-
-		ResetFaction(faction);
-	    SendAdminMessage(COLOR_RED, "Admin: %s has deleted faction %i.", ReturnNameEx(playerid, 0), faction);
+		RespawnFactionVehicles(faction);
+	    SendAdminMessage(COLOR_RED, "Admin: %s has respawned faction %i vehicles.", ReturnNameEx(playerid, 0), faction);
 	}
 	return 1;
 }

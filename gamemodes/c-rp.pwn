@@ -9022,7 +9022,7 @@ ClearFactionVehicles(faction)
 	mysql_tquery(gConnection, gExecute);
 }
 
-/*RespawnFactionVehicles(faction)
+RespawnFactionVehicles(faction)
 {
 	for (new i = 0; i < MAX_CARS; i ++)
 	{
@@ -9031,7 +9031,7 @@ ClearFactionVehicles(faction)
 			SetVehicleToRespawn(Vehicles[i][vVehicle]);
 		}
 	}
-}*/
+}
 
 ClearFactionGates(faction)
 {

@@ -134,7 +134,7 @@ CMD:help(playerid, params[])
 			{
 				SendClientMessage(playerid, COLOR_GREY, "Level 1:{FFFFFF} /(a)dmin, /kick, /spec, /ajail, /unjail, /mute, /unmute, /freeze, /unfreeze, /reports.");
 				SendClientMessage(playerid, COLOR_GREY, "Level 1:{FFFFFF} /aduty, /adminname, /warn, /slap, /afkkick, /ban, /goto, /get, /sendto /saveplayers.");
-				SendClientMessage(playerid, COLOR_GREY, "Level 1:{FFFFFF} /tp, /anote, /anotes, /deathlogs, /vinfo, /masked, /savepos, /loadpos, /revive.");
+				SendClientMessage(playerid, COLOR_GREY, "Level 1:{FFFFFF} /tp, /anote, /anotes, /deathlogs, /vinfo, /masked, /savepos, /loadpos, /revive, /vslap.");
 			}
             if (Players[playerid][pAdmin] >= 2)
 			{
