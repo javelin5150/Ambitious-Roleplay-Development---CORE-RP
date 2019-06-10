@@ -193,6 +193,8 @@ CMD:slap(playerid, params[])
 	else if (Players[targetid][pAdmin] > Players[playerid][pAdmin])
 	{
 	    return SendErrorMessage(playerid, "The specified target has a higher admin level.");
+	} else if(IsPlayerInAnyVehicle(targetid)) {
+		return SendErrorMessage(playerid, "That user is in a vehicle.");
 	}
 	else
 	{
