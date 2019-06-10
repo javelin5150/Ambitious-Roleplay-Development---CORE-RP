@@ -206,7 +206,38 @@ CMD:slap(playerid, params[])
 	}
 	return 1;
 }
+CMD:slap(playerid, params[])
+{
+	new targetid, Float:x, Float:y, Float:z, vehicleid;
 
+	if (Players[playerid][pAdmin] < 1)
+		return SendErrorMessage(playerid, "You are not privileged to use this command.");
+
+	if (sscanf(params, "u", targetid))
+	    return SendSyntaxMessage(playerid, "/slap [playerid/name]");
+
+	if (!IsPlayerConnected(targetid))
+	    return SendErrorMessage(playerid, "The specified target doesn't exist.");
+	if (IsPlayerNPC(targetid))
+	    return SendErrorMessage(playerid, "You cannot use this command on a NPC.");
+	if (!IsPlayerLoggedIn(targetid))
+	    return SendErrorMessage(playerid, "The specified target is not logged in yet.");
+	
+	if (Players[targetid][pAdmin] > Players[playerid][pAdmin])
+	    return SendErrorMessage(playerid, "The specified target has a higher admin level.");
+
+	if(!IsPlayerInAnyVehicle(targetid)) 
+		return SendErrorMessage(playerid, "That user is not in a vehicle.");
+
+	vehicleid = GetPlayerVehicleID(targetid);
+    GetVehiclePos(vehicleid, x, y, z);
+    SetVehiclePos(vehicleid, x, y, z + 5);
+
+	PlayerPlaySound(targetid, 1130, 0.0, 0.0, 0.0);
+    SendAdminMessage(COLOR_RED, "Admin: %s was slapped by %s.", ReturnNameEx(targetid, 0), ReturnAdminName(playerid));
+
+	return 1;
+}
 CMD:mute(playerid, params[])
 {
 	new targetid;
