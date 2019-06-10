@@ -5,6 +5,6 @@
 ### Additions
 - [  ] xyz
 ### Removals
-- [  ] xyz
+- Admin Title System
 ### Changes
-- [  ] xyz
+- /sc and /la now properly display admin ranks.
