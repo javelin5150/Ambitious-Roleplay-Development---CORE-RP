@@ -157,7 +157,7 @@ CMD:help(playerid, params[])
 			if (Players[playerid][pAdmin] >= 5)
 			{
 				SendClientMessage(playerid, COLOR_GREY, "Level 5:{FFFFFF} /(l)ead(a)dmin, /dynamichelp, /vsave, /vblacklist, /vsethealth, /setbankmoney, /setstat, /givemoney.");
-				SendClientMessage(playerid, COLOR_GREY, "Level 5:{FFFFFF} /cleartickets, /givenamechanges, /addownedcar, /setfactionmod, /setdrunk, /restart.");
+				SendClientMessage(playerid, COLOR_GREY, "Level 5:{FFFFFF} /cleartickets, /givenamechanges, /addownedcar, /setfactionmod, /setdrunk, /restart, /deletefaction.");
 				SendClientMessage(playerid, COLOR_GREY, "Level 5:{FFFFFF} /adeletedrops, /adeleteblood, /adeleteshells, /setadmin, /osetadmin, /setdrunk, /setmapper.");
 			}
 			if (Players[playerid][pAdmin] >= 6)
