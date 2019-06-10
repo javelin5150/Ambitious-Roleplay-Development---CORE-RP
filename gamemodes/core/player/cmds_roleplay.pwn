@@ -46,7 +46,6 @@ CMD:my(playerid, params[])
 			SendSplitMessage(i, COLOR_PURPLE, "* %s's %s", ReturnNameEx(playerid), params);
 		}
 	}
-
 	return 1;
 }
 
