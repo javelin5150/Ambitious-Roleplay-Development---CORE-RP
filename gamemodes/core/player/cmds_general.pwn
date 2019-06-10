@@ -141,7 +141,7 @@ CMD:help(playerid, params[])
 				SendClientMessage(playerid, COLOR_GREY, "Level 2:{FFFFFF} /unban, /sendspawn, /setskin, /jetpack, /listitems, /sethealth, /setarmor, /banlogs.");
 				SendClientMessage(playerid, COLOR_GREY, "Level 2:{FFFFFF} /tp, /setint, /setworld, /gotocoords, /vgoto, /vget, /vputseat, /check, /auncuff.");
 				SendClientMessage(playerid, COLOR_GREY, "Level 2:{FFFFFF} /togbleeding, /togbrokenleg, /adminheal, /listguns, /removeitem, /checkbank, /aheal.");
-				SendClientMessage(playerid, COLOR_GREY, "Level 2:{FFFFFF} /anote, /anotes, /deathlogs, /ahide, /vrespawn, /vfrespawn.");
+				SendClientMessage(playerid, COLOR_GREY, "Level 2:{FFFFFF} /anote, /anotes, /deathlogs, /ahide, /vrespawn, /fvrespawn.");
 			}
 			if (Players[playerid][pAdmin] >= 3)
 			{
