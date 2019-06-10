@@ -8,3 +8,4 @@
 - Admin Title System
 ### Changes
 - /sc and /la now properly display admin ranks.
+- Supporters can now see /helpme's regardless of status
