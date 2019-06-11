@@ -3,7 +3,8 @@
 ## Developers:
 
 ### Bauer:
-- [  ] xyz
+- [  ] Re-Design quiz system
+- [  ] Add a way to 'craft' ammunition for illegal factions.
 
 ### Nutter:
 - [  ] xyz
