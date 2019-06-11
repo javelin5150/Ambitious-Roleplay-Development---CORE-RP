@@ -10,4 +10,6 @@
 - [  ] xyz
 
 ### ked:
-- [  ] xyz
+- [  ] Faction administration commands
+- [  ] Radio system
+- [  ] More chat commands.
