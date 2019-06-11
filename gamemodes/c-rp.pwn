@@ -36838,6 +36838,18 @@ Dialog:ChangeGenre(playerid, response, listitem, inputtext[])
 	return 1;
 }
 
+Dialog:CustomLink(playerid, response, listitem, inputtext[])
+{
+	if(response)
+	{
+		PlayPlayerBoomBoxURL(playerid, "Custom Stream", inputtext);
+	} else {
+		ShowBoomBoxStations(playerid);
+	}
+
+	return 1;
+}
+
 Dialog:Urban(playerid, response, listitem, inputtext[])
 {
 	if(response)
