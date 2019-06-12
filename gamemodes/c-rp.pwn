@@ -44430,7 +44430,7 @@ Dialog:FactionType(playerid, response, listitem, inputtext[])
 	else
 	{
 	    ShowFactionEditMenu(playerid, faction);
-	}vf
+	}
 	return 1;
 }
 

@@ -106,6 +106,12 @@ CMD:deletefaction(playerid, params[])
 	    format(gExecute, sizeof(gExecute), "UPDATE rp_accounts SET FactionID = 0 WHERE FactionID = %i", Factions[faction][fcID]);
 	    mysql_tquery(gConnection, gExecute);
 
+		mysql_format(gConnection, gExecute, sizeof(gExecute), "DELETE FROM rp_factionequipmentWHERE itemFactionID = %i", Factions[faction][fcID]);
+		mysql_tquery(gConnection, gExecute);
+
+		mysql_format(gConnection, gExecute, sizeof(gExecute), "DELETE FROM rp_factionaccessories WHERE accessoryFactionID = %i", Factions[faction][fcID]);
+		mysql_tquery(gConnection, gExecute);
+
 		ResetFaction(faction);
 	    SendAdminMessage(COLOR_RED, "Admin: %s has deleted faction %i.", ReturnNameEx(playerid, 0), faction);
 	}
