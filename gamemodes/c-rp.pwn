@@ -9427,7 +9427,7 @@ ExitModdingShop(playerid)
 					SetPlayerVirtualWorld(i, 0);
 					if(GetPlayerState(i) == PLAYER_STATE_PASSENGER)
 					{
-						TogglePlayerControllable(playerid, false);
+						TogglePlayerControllable(playerid, true);
 					}
 				}	
 			}
