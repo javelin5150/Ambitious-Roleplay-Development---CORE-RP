@@ -9416,23 +9416,6 @@ ExitModdingShop(playerid)
 
 		SetPlayerInterior(playerid, 0);
 		SetPlayerVirtualWorld(playerid, 0);
-
-		if(IsPlayerInAnyVehicle(playerid))
-		{
-			for(new i : Player)
-			{
-				if(GetPlayerVehicleID(i) == GetPlayerVehicleID(playerid))
-				{
-					SetPlayerInterior(i, 0);
-					SetPlayerVirtualWorld(i, 0);
-					if(GetPlayerState(i) == PLAYER_STATE_PASSENGER)
-					{
-						TogglePlayerControllable(playerid, true);
-					}
-				}	
-			}
-		}
-
 	}
 
 	return 1;
@@ -14169,27 +14152,14 @@ EnterCaller(playerid)
 
 		SetVehiclePos(vehicleid, 614.8823, -125.0021, 998.0926);
 		SetVehicleZAngle(vehicleid, 90.0000);
-		new virtualworld = playerid + 500;
-		SetVehicleVirtualWorld(vehicleid, virtualworld);
+		SetVehicleVirtualWorld(vehicleid, 9999);
 		LinkVehicleToInterior(vehicleid, 3);
 
 		GetVehicleParamsEx(vehicleid, Players[playerid][pVehicleParams][0], Players[playerid][pVehicleParams][1], Players[playerid][pVehicleParams][2], Players[playerid][pVehicleParams][3], Players[playerid][pVehicleParams][4], Players[playerid][pVehicleParams][5], Players[playerid][pVehicleParams][6]);
 		SetVehicleParamsEx(vehicleid, 0, 0, 0, 0, 0, 0, 0);
-
-		foreach(new i : Player)
-		{
-			if(GetPlayerVehicleID(i) == vehicleid)
-			{
-				SetPlayerInterior(i, 3);
-				SetPlayerVirtualWorld(i, virtualworld);
-				SetCameraBehindPlayer(i);
-				if(GetPlayerState(i) == PLAYER_STATE_PASSENGER)
-				{
-					TogglePlayerControllable(playerid, false);
-				}
-			}
-		}
-
+		SetPlayerInterior(playerid, 3);
+		SetPlayerVirtualWorld(playerid, 9999);
+		SetCameraBehindPlayer(playerid);
 		ShowModMainMenu(playerid);
 		return 1;
 	}
@@ -44460,7 +44430,7 @@ Dialog:FactionType(playerid, response, listitem, inputtext[])
 	else
 	{
 	    ShowFactionEditMenu(playerid, faction);
-	}
+	}vf
 	return 1;
 }
 
@@ -61448,7 +61418,7 @@ CMD:work(playerid, params[])
 	        {
 	            return SendErrorMessage(playerid, "You need to be driving a pizza scooter.");
 			}
-			else if (!IsPlayerInRangeOfPoint(playerid, 5.0, 2092.8154,-1796.5688,13.3828))
+			else if (!IsPlayerInRangeOfPoint(playerid, 10.0, 2092.8154,-1796.5688,13.3828))
 			{
 			    return SendErrorMessage(playerid, "You need to be near the pizza stacks.");
 			}
