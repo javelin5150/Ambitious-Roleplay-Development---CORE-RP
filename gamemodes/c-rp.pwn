@@ -49676,7 +49676,7 @@ Dialog:AccountLogin(playerid, response, listitem, inputtext[])
 
 #include "core/admin/cmds_teleport.pwn"
 
-//#include "core/admin/cmds_veh.pwn"
+#include "core/admin/cmds_veh.pwn"
 
 #include "core/admin/cmds_stats.pwn"
 
