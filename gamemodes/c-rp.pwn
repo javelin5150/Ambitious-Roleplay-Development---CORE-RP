@@ -55808,7 +55808,7 @@ CMD:r(playerid, params[])
 {
 	new item = GetInventoryItemID(playerid, "Portable Radio");
 
-	if (item == INVALID_ID)
+	if (item == INVALID_ID && GetPlayerFactionType(playerid) != FACTION_LEO)
 	{
 	    return SendErrorMessage(playerid, "You don't have a portable radio.");
 	}
