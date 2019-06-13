@@ -41511,7 +41511,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 		    	{
 		    		SendErrorMessage(playerid, "There is no more room in your inventory.");
 		    	}
-		    	else
+		    	else if(GetInventoryItemID(playerid, "Armor") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have Armor.");
+				} else
 		    	{
 		    		ShowLockerEquipmentMenu(playerid);
 
@@ -41525,7 +41527,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
 				}
-				else
+				else if(GetInventoryItemID(playerid, "Nightstick") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a Nightstick.");
+				} else
 				{
 				    ShowLockerEquipmentMenu(playerid);
 
@@ -41539,7 +41543,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
 				}
-				else
+				else if(GetInventoryItemID(playerid, "Pepper Spray") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a Pepper Spray");
+				} else
 				{
 				    ShowLockerEquipmentMenu(playerid);
 
@@ -41595,7 +41601,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
 				}
-				else
+				else if(GetInventoryItemID(playerid, "MP5") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a MP5.");
+				} else
 				{
 				    new serial = Random(10000, 99999);
 				    new fac[32];
@@ -41616,7 +41624,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
 				}
-				else
+				else if(GetInventoryItemID(playerid, "M16") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a M16.");
+				} else
 				{
 				    new serial = Random(10000, 99999);
 				    new fac[32];
@@ -41637,7 +41647,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
 				}
-				else
+				else if(GetInventoryItemID(playerid, "Sniper Rifle") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a Sniper Rifle.");
+				} else
 				{
 				    new serial = Random(10000, 99999);
 				    new fac[32];
