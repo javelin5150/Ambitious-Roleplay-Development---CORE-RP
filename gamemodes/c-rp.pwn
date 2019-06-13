@@ -41552,9 +41552,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 		        if (!IsSufficientSpace(playerid, "Desert Eagle"))
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
-				}
-				else
-				{
+				} else if(GetInventoryItemID(playerid, "Desert Eagle") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a Desert Eagle.");
+				} else {
 				    new serial = Random(10000, 99999);
 				    new fac[32];
 
@@ -41573,9 +41573,9 @@ Dialog:PoliceEquipment(playerid, response, listitem, inputtext[])
 		        if (!IsSufficientSpace(playerid, "Shotgun"))
 				{
 				    SendErrorMessage(playerid, "There is no more room in your inventory.");
-				}
-				else
-				{
+				} else if(GetInventoryItemID(playerid, "Shotgun") != INVALID_ID) {
+					return SendErrorMessage(playerid, "You already have a Shotgun.");
+				} else {
 				    new serial = Random(10000, 99999);
 				    new fac[32];
 
@@ -58769,6 +58769,8 @@ CMD:m(playerid, params[])
 	else if (Players[playerid][pMuted])
 	{
 	    return SendErrorMessage(playerid, "You cannot use this command since you're muted.");
+	} else if(!IsPlayerInAnyVehicle(playerid)) {
+		return SendErrorMessage(playerid, "You must be in a vehicle to use this command.");
 	}
 	else if (isnull(params))
 	{
