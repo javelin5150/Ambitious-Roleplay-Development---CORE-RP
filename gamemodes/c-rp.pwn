@@ -134,8 +134,7 @@ new Text3D:FireText[MaxFire];
 #include <VPP>
 #include <OnVehicleModEx>
 
-/*---------------------------------------------------------------------------
-
+/*--------------------------------------------------------------
 	SQL information
 
 	This script utilizes the MySQL plugin for data storage.
@@ -43726,6 +43725,10 @@ Dialog:MyInventory(playerid, response, listitem, inputtext[])
 
 					if (IsValidFurnitureID(safe) && Furniture[safe][fSafeOpen])
 					{
+						if (GetItemInformation(Inventory[playerid][Players[playerid][pSelected]][invName], ITEM_INFO_WEAPON_ID) >= WEAPON_COLT45 && GetItemInformation(Inventory[playerid][Players[playerid][pSelected]][invName], ITEM_INFO_WEAPON_ID) <= WEAPON_SNIPER)
+						{
+						    if (Factions[Players[playerid][pFaction]][fcType] != FACTION_ILLEGAL) return SendErrorMessage(playerid, "You must be in an illegal faction to store guns in trash bin.");
+						}
 						new
 							id = AddItemToSafe(playerid, safe, Players[playerid][pSelected]);
 
