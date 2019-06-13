@@ -165,8 +165,7 @@ CMD:unjail(playerid, params[])
 	}
 	return 1;
 }
-//ToDo: Remove later if needed ~Nutter
-/*CMD:slap(playerid, params[])
+CMD:slap(playerid, params[])
 {
 	new targetid, Float:x, Float:y, Float:z;
 
@@ -205,8 +204,8 @@ CMD:unjail(playerid, params[])
 	    SendAdminMessage(COLOR_RED, "Admin: %s was slapped by %s.", ReturnNameEx(targetid, 0), ReturnAdminName(playerid));
 	}
 	return 1;
-}*/
-CMD:slap(playerid, params[])
+}
+CMD:vslap(playerid, params[])
 {
 	new targetid, Float:x, Float:y, Float:z, vehicleid;
 
