@@ -55106,8 +55106,8 @@ CMD:editfaction(playerid, params[])
 	}
 	return 1;
 }
-
-CMD:deletefaction(playerid, params[])
+//ToDo: Remove if not needed. ~Nutter
+/*CMD:deletefaction(playerid, params[])
 {
 	new faction;
 
@@ -55152,7 +55152,7 @@ CMD:deletefaction(playerid, params[])
 	    SendAdminMessage(COLOR_RED, "Admin: %s has deleted faction %i.", ReturnNameEx(playerid, 0), faction);
 	}
 	return 1;
-}
+}*/
 
 CMD:factions(playerid, params[])
 {
