@@ -49660,7 +49660,7 @@ Dialog:AccountLogin(playerid, response, listitem, inputtext[])
 
 ---------------------------------------------------------------------------*/
 
-#include "core/player/cmds_veh.pwn"
+//#include "core/player/cmds_veh.pwn"
 
 #include "core/player/cmds_chat.pwn"
 
